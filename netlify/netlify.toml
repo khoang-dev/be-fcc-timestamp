@@ -10,6 +10,6 @@
 #     functions = "functions"
 [[redirects]]
 from = "/*"
-to = "/view/index.html"
+to = "/index.html"
 status = 200
 
