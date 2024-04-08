@@ -9,6 +9,7 @@
 # [build]
 #     functions = "functions"
 [[redirects]]
-from = "/"
-to = "/views/index.html"
+from = "/*"
+to = "/view/index.html"
 status = 200
+
