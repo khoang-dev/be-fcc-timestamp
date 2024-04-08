@@ -8,3 +8,7 @@
 #   to = "/.netlify/functions/api"
 [build]
     functions = "functions"
+[[redirects]]
+from = "/*"
+to = "/views/index.html"
+status = 200
